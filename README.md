@@ -27,3 +27,5 @@ docker build -t custom-llm .
 kubectl apply -f deployment/kubernetes/deployment.yaml
 kubectl apply -f deployment/kubernetes/service.yaml
 
+![DALL·E 2024-10-04 14 44 48 - A detailed flowchart illustrating the deployment process of an Ollama model using Python, Docker, and Kubernetes  The flowchart should have a clear, s](https://github.com/user-attachments/assets/ba56f62d-a5aa-4500-9ba2-3e86a07f883f)
+<img width="1440" alt="Screenshot 2024-10-04 at 14 11 22" src="https://github.com/user-attachments/assets/ed7b06ec-9ea7-416c-bb92-377c1d6b99bc">
